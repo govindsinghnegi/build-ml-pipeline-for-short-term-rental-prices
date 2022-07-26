@@ -567,3 +567,10 @@ you have trained your new model on the new data.
 ## License
 
 [License](LICENSE.txt)
+
+
+## Github repo
+The github repo for this project can be be found at https://github.com/govindsinghnegi/build-ml-pipeline-for-short-term-rental-prices
+
+## WAND repo
+The wandb repo for this projet can be found at https://wandb.ai/govindsinghnegi7/nyc_airbnb 
